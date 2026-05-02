@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My Git Assignment Introduction
 
 My name is Syed Abdullah
@@ -22,9 +23,15 @@ I am a BS student learning Git and GitHub.
 
 Skills
 
-\- Python Programming
+- Python Programming
 
-\- Web Development
+- Web Development
 
-\- Problem Solving
+- Problem Solving
+- Cyber Security
+- Mathematics
 
+
+=======
+# git-assignment-Syed-Abdullah
+>>>>>>> 7bc8f1028331a268673e8c87f3319cd12209bbf3
